@@ -1,0 +1,169 @@
+LTspice 24.1.9 for Windows
+Circuit: C:\Users\Francesco Gabriele\Politecnico Di Torino Studenti Dropbox\Francesco Gabriele\Buck Control\EMPC on Buck\LTSPICE\Simulations\New_Top_S&H.net
+Start Time: Fri Aug 29 13:08:06 2025
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+AsciiRawFile = true
+C:\Users\Francesco Gabriele\Politecnico Di Torino Studenti Dropbox\Francesco Gabriele\Buck Control\EMPC on Buck\LTSPICE\Simulations\New_Top_S&H.net(54): Limiting fall time to 3.81165e-22.
+
+V6 N009 0 PULSE(0 1 0 2u 0 0 2u)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+vernier = 0.5
+Gmin = 2.07126
+vernier = 0.25
+vernier = 0.125
+Gmin = 1.57455
+vernier = 0.166667
+vernier = 0.0833333
+vernier = 0.0416667
+Gmin = 1.37741
+vernier = 0.0555555
+vernier = 0.0277778
+Gmin = 1.2854
+vernier = 0.037037
+vernier = 0.0185185
+Gmin = 1.22461
+vernier = 0.0246913
+vernier = 0.0123457
+Gmin = 1.18383
+vernier = 0.0164609
+vernier = 0.00823044
+Gmin = 1.15264
+vernier = 0.0109739
+vernier = 0.0146319
+vernier = 0.00731595
+Gmin = 1.12919
+vernier = 0.00975459
+vernier = 0.0048773
+Gmin = 1.11484
+vernier = 0.00650306
+vernier = 0.00867074
+vernier = 0.00433537
+Gmin = 1.10134
+vernier = 0.00578049
+vernier = 0.00289025
+Gmin = 1.09144
+vernier = 0.00385366
+Gmin = 1.08202
+vernier = 0.00513821
+vernier = 0.00256911
+vernier = 0.00342548
+Gmin = 1.07579
+vernier = 0.0045673
+vernier = 0.00228365
+Gmin = 1.06997
+vernier = 0.00304487
+vernier = 0.00152243
+Gmin = 1.06469
+vernier = 0.00202991
+vernier = 0.00270655
+vernier = 0.00135327
+Gmin = 1.06065
+vernier = 0.00180436
+Gmin = 1.05647
+vernier = 0.00240582
+vernier = 0.00120291
+vernier = 0.00160388
+Gmin = 1.05357
+vernier = 0.0021385
+vernier = 0.00106925
+Gmin = 1.05075
+vernier = 0.00142567
+vernier = 0.00190089
+vernier = 0.000950445
+Gmin = 1.04798
+vernier = 0.00126726
+Gmin = 1.045
+vernier = 0.00168968
+vernier = 0.00084484
+vernier = 0.00112645
+Gmin = 1.04301
+vernier = 0.00150194
+vernier = 0.000750968
+Gmin = 1.04115
+vernier = 0.00100129
+vernier = 0.00133505
+vernier = 0.000667527
+Gmin = 1.03924
+vernier = 0.000890036
+vernier = 0.00118671
+Gmin = 1.03703
+vernier = 0.000593357
+vernier = 0.000791143
+Gmin = 1.03575
+vernier = 0.00105486
+vernier = 0.000527428
+vernier = 0.000703238
+Gmin = 1.03448
+vernier = 0.00093765
+vernier = 0.000468825
+Gmin = 1.0332
+vernier = 0.0006251
+vernier = 0.000833466
+vernier = 0.000416733
+Gmin = 1.03199
+vernier = 0.000555644
+Gmin = 1.03074
+vernier = 0.000740858
+vernier = 0.000555644
+vernier = 0.000740858
+vernier = 0.000555644
+Gmin = 1.02988
+vernier = 0.000740858
+vernier = 0.000555644
+Gmin = 1.02874
+vernier = 0.000740858
+vernier = 0.000555643
+vernier = 0.000740858
+Gmin = 1.02755
+vernier = 0.000555643
+vernier = 0.000416732
+vernier = 0.000555643
+vernier = 0.000416732
+Gmin = 1.0272
+vernier = 0.000555643
+vernier = 0.000416732
+Gmin = 1.02635
+vernier = 0.000555643
+vernier = 0.000416732
+vernier = 0.000555643
+Gmin = 1.02546
+vernier = 0.000416732
+vernier = 0.000555643
+vernier = 0.000416732
+Gmin = 1.02485
+vernier = 0.000555642
+vernier = 0.000416732
+Gmin = 1.024
+vernier = 0.000555642
+vernier = 0.000416732
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+
+Simulation stopped by user.
+Total elapsed time: 435.036 seconds.
+
+Files loaded:
+C:\Users\Francesco Gabriele\Politecnico Di Torino Studenti Dropbox\Francesco Gabriele\Buck Control\EMPC on Buck\LTSPICE\Simulations\New_Top_S&H.net
+C:\Users\Francesco Gabriele\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\Users\Francesco Gabriele\AppData\Local\LTspice\lib\cmp\standard.mos
+C:\Users\Francesco Gabriele\AppData\Local\LTspice\lib\sub\AD8410A.lib
+C:\Users\Francesco Gabriele\AppData\Local\LTspice\lib\sub\ADG5404.sub
+C:\Users\Francesco Gabriele\AppData\Local\LTspice\lib\sub\ADI.lib
+C:\Users\Francesco Gabriele\AppData\Local\LTspice\lib\sub\LT1720.sub
+C:\Users\Francesco Gabriele\AppData\Local\LTspice\lib\sub\LTC7060.sub
+

@@ -1,0 +1,20 @@
+LTspice 24.1.9 for Windows
+Circuit: C:\Users\Francesco Gabriele\Politecnico Di Torino Studenti Dropbox\Francesco Gabriele\Buck Control\EMPC on Buck\LTSPICE\Current_mode.net
+Start Time: Sun Aug 17 15:57:12 2025
+solver = Alternate
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = Gear
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 42.183 seconds.
+
+Files loaded:
+C:\Users\Francesco Gabriele\Politecnico Di Torino Studenti Dropbox\Francesco Gabriele\Buck Control\EMPC on Buck\LTSPICE\Current_mode.net
+C:\Users\Francesco Gabriele\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\Users\Francesco Gabriele\AppData\Local\LTspice\lib\cmp\standard.mos
+C:\Users\Francesco Gabriele\AppData\Local\LTspice\lib\sub\AD8410A.lib
+C:\Users\Francesco Gabriele\AppData\Local\LTspice\lib\sub\ADI.lib
+C:\Users\Francesco Gabriele\AppData\Local\LTspice\lib\sub\LT1711.sub
+C:\Users\Francesco Gabriele\AppData\Local\LTspice\lib\sub\LTC7060.sub
+
