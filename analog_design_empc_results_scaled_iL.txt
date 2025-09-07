@@ -1,0 +1,116 @@
+############## Region 1 ############## 
+Condition 1 (+ side):
+v_C with R = 3.0326kOhm
+i_o*0.1 with R = 24.2004kOhm
+Condition 1 (- side):
+0.2*i_L with R = 65.9461kOhm
+V_in with R = 1904.4657kOhm
+V_batt=5V with R = 4.2758kOhm
+
+Condition 2 (+ side):
+V_in with R = 232.8571kOhm
+Condition 2 (- side):
+V_batt=5V with R = 4.2857kOhm
+
+Condition 3 (+ side):
+V_batt=5V with R = 4.2857kOhm
+Condition 3 (- side):
+V_in with R = 32.8571kOhm
+
+Condition 4 (+ side):
+i_o*0.1 with R = 6.1688kOhm
+V_batt=5V with R = 1.8224kOhm
+Condition 4 (- side):
+0.2*i_L with R = 19.9982kOhm
+v_C with R = 2.8467kOhm
+V_in with R = 1828.2443kOhm
+
+Condition 5 (+ side):
+0.2*i_L with R = 23.6165kOhm
+v_C with R = 3.3617kOhm
+V_in with R = 2159.0357kOhm
+Condition 5 (- side):
+i_o*0.1 with R = 5.5468kOhm
+V_batt=5V with R = 1.5291kOhm
+
+Condition 6 (+ side):
+ground (no inputs, compare with zero)
+Condition 6 (- side):
+0.2*i_L with R = 4.2857kOhm
+
+Condition 7 (+ side):
+ground (no inputs, compare with zero)
+Condition 7 (- side):
+i_o*0.1 with R = 3.2857kOhm
+V_batt=5V with R = 32.8571kOhm
+
+Condition 8 (+ side):
+0.2*i_L with R = 35.7143kOhm
+Condition 8 (- side):
+V_batt=5V with R = 4.2857kOhm
+
+Condition 9 (+ side):
+i_o*0.1 with R = 4.2857kOhm
+Condition 9 (- side):
+V_batt=5V with R = 25.7143kOhm
+
+############## Region 2 ############## 
+Condition 1 (+ side):
+V_in with R = 232.8571kOhm
+Condition 1 (- side):
+V_batt=5V with R = 4.2857kOhm
+
+Condition 2 (+ side):
+V_batt=5V with R = 4.2857kOhm
+Condition 2 (- side):
+V_in with R = 32.8571kOhm
+
+Condition 3 (+ side):
+i_o*0.1 with R = 17.3902kOhm
+V_batt=5V with R = 3.0629kOhm
+Condition 3 (- side):
+0.2*i_L with R = 40.5199kOhm
+v_C with R = 3.4333kOhm
+V_in with R = 6694.4398kOhm
+
+Condition 4 (+ side):
+0.2*i_L with R = 65.9461kOhm
+V_in with R = 1904.4657kOhm
+V_batt=5V with R = 4.2758kOhm
+Condition 4 (- side):
+v_C with R = 3.0326kOhm
+i_o*0.1 with R = 24.2004kOhm
+
+Condition 5 (+ side):
+0.2*i_L with R = 42.7821kOhm
+v_C with R = 3.625kOhm
+V_in with R = 7068.1847kOhm
+Condition 5 (- side):
+i_o*0.1 with R = 15.5891kOhm
+V_batt=5V with R = 2.6109kOhm
+
+Condition 6 (+ side):
+ground (no inputs, compare with zero)
+Condition 6 (- side):
+0.2*i_L with R = 4.2857kOhm
+
+Condition 7 (+ side):
+ground (no inputs, compare with zero)
+Condition 7 (- side):
+i_o*0.1 with R = 3.2857kOhm
+V_batt=5V with R = 32.8571kOhm
+
+Condition 8 (+ side):
+i_o*0.1 with R = 4.2857kOhm
+Condition 8 (- side):
+V_batt=5V with R = 25.7143kOhm
+
+############## Sigma ############## 
+Condition 1 (+ side):
+i_o*0.1 with R = 7.7777kOhm
+V_batt=5V with R = 2.0442kOhm
+Condition 1 (- side):
+0.2*i_L with R = 23.4916kOhm
+v_C with R = 2.997kOhm
+V_in with R = 2324.3405kOhm
+
